@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, mi nombre es Walter Halm<br>{Full Stack Dev. Jr.}<br>Cuento con 2 (dos) años de experiencia y con muchas ganas de seguir aprendiendo y desarrollarme profesionalmente. <br>
+Hola, mi nombre es Walter Halm<br>{Full Stack Dev. Jr.}<br>Cuento con 3 (tres) años de experiencia y con muchas ganas de seguir aprendiendo y desarrollarme profesionalmente. <br>
 
 
 ## 🌐 Socials:
